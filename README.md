@@ -1,4 +1,4 @@
-# WAMS2026-sandbox — workshop program
+# WAMS2026 — workshop program
 
 **GitHub Pages:** serve from branch `main`, folder **`/docs`** (Settings → Pages).
 `docs/` holds the public web build (HTML as `index.html`, PDF, ePUB) **without participants' e-mail addresses**.
